@@ -7,9 +7,9 @@
 [Applied-Data-Science-Capstone-SpaceX](https://github.com/VM-137/SpaceX-Capstone)
 <img src="https://raw.githubusercontent.com/VM-137/SpaceX-Capstone/master/index.png">
 
-[//]: ---
-[//]: [Project 2 Title](/pdf/sample_presentation.pdf)
-[//]: <img src="images/dummy_thumbnail.jpg?raw=true"/>
+[//]: # ---
+[//]: # [Project 2 Title](/pdf/sample_presentation.pdf)
+[//]: # <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
