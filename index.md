@@ -5,7 +5,7 @@
 ### Data Science 
 
 [Applied-Data-Science-Capstone-SpaceX](https://github.com/VM-137/SpaceX-Capstone)
-<img src="https://raw.githubusercontent.com/VM-137/SpaceX-Capstone/master/index.png?raw=true"/>
+<img src="https://raw.githubusercontent.com/VM-137/SpaceX-Capstone/master/index.png?raw=true">
 <!--
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
