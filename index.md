@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Applied-Data-Science-Capstone-SpaceX](/sample_page)
+<img src="https://raw.githubusercontent.com/VM-137/SpaceX-Capstone/master/index.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
