@@ -1,10 +1,11 @@
 title: Alberto Martín Visciglia # your name (or website title) here
 logo: "/images/fotoredonda.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Data Scientist with a deep passion for <br>
-  solving problems that affect people's lives 
+  <h3>Mathematics , Data Science | Machine Learning </h3> <br>
+  <b>Data Scientist with a deep passion for <br>
+  solving problems that affect people's lives </b>
   <br>
-  Mathematics , Data Science | Machine Learning <br>
+  
   <a href="https://www.linkedin.com/in/alberto-visciglia/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
