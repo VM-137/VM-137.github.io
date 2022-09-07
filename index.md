@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Applied-Data-Science-Capstone-SpaceX](/sample_page)
+[Applied-Data-Science-Capstone-SpaceX](https://github.com/VM-137/SpaceX-Capstone)
 <img src="https://raw.githubusercontent.com/VM-137/SpaceX-Capstone/master/index.png?raw=true"/>
 
 ---
